@@ -31,7 +31,7 @@ The `Mouse_Data_Student_Copy.xlsx` file contains the following sheets:
 - `Male Act`: Locomotor activity counts for male mice
 
 Each row represents a one-minute time point over 14 consecutive days.
-Temperature is measured in degrees Celsius, and activity is measured in arbitrary counts.
+Temperature is measured in degrees Celsius, and activity is measured in counts.
 
 ## Recommended Reading
 
