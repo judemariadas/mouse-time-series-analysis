@@ -25,8 +25,8 @@ The analysis explores biological time series data using various techniques inclu
 ## Data Description
 
 The `Mouse_Data_Student_Copy.xlsx` file contains the following sheets:
-- `Fem Temp`: Core body temperature readings for female mice (f1-f15)
-- `Male Temp`: Core body temperature readings for male mice (m1-m15)
+- `Fem Temp`: Core body temperature readings for female mice (f1-f13)
+- `Male Temp`: Core body temperature readings for male mice (m1-m13)
 - `Fem Act`: Locomotor activity counts for female mice
 - `Male Act`: Locomotor activity counts for male mice
 
