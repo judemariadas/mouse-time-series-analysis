@@ -1,6 +1,12 @@
 # Mouse Temperature and Activity Analysis
 
-This repository contains Python code for analyzing sex differences in core body temperature (CBT) and locomotor activity (LA) patterns in mice, including analyzing the effects of the estrous cycle in females.
+This repository contains Python code for analyzing sex differences in core body temperature (CBT) and locomotor activity (LA) patterns in mice, including analyzing the effects of the estrous cycle in females. 
+
+It demonstrates practical applications of time series techniques to biological data, making it suitable for:
+
+- learning real-world applications of time series analysis methods including wavelet transforms, Dynamic Time Warping, and variance analysis applied to complex biological rhythms.
+- learning how to identify and quantify sex differences in physiological data
+- understanding methods for detecting and analyzing multiple nested biological rhythms (ultradian, circadian, and estrous cycles) in physiological data.
 
 ## Overview
 
